@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 2px;
+    box-sizing: border-box;
+    /* background-color: #15172b;     */
+}
+
+section {
+    height: 500px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    margin-top: 10rem;
+    margin-left: 30rem;
+    margin-right: 30rem;
+    padding: 10px;
+    color: white;
+}
+
+.parent {
+    position: relative
+}
+.imag {
+    padding: 10px;
+    margin: 0px;
+    width: 100%;
+    position: relative;
+}
+
+.fa-eye {
+    position: absolute;
+    right: 70px;
+    /* padding: 20px; */
+    margin-top: 80px;
+    font: size 50px;;
+    /* margin-right: 2rem; */
+    /* margin-left: 30rem; */
+    /* margin: 100px; */    
+}
